@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f0f0f0;
+  }
+  
+  .flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+   
+  }
+ 
+  .green {
+    width: 33.33%;
+    background-color : #15b53b;
+  }
+  
+  .yellow {
+    width: 33.33%;
+    background-color: #fdd116;
+  }
+  
+  .red {
+    width: 33.33%;
+    background-color: #ce1127;
+  }
